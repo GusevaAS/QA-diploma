@@ -11,8 +11,9 @@
    Всего тест-кейсов для СУБД MySQL и PostgreSQL: 112
    1. Успешных тест-кейсов: 74
    2. Неуспешных тест-кейсов: 42
-![SQL.png](..%2F..%2F..%2FUsers%2FNastya%2FDesktop%2FSQL.png)
-![PSG.png](..%2F..%2F..%2FUsers%2FNastya%2FDesktop%2FPSG.png)
+
+![SQL](https://github.com/GusevaAS/QA-diploma/assets/118854105/361d58d2-2d83-473a-a467-dc856e42d6ad)
+![PSG](https://github.com/GusevaAS/QA-diploma/assets/118854105/8b12209a-6c4b-423d-adfd-e29aa5476067)
 
 ## Процент успешных/неуспешных тест-кейсов
    1. Процент успешных: 69.79%
