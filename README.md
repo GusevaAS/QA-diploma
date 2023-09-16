@@ -20,6 +20,7 @@
 ## ПО для работы с проектом:
 - Intellij IDEA;
 - Docker Desktop;
+- Postman for Windows 10.13.5
 - Chrome Google Браузер.
 
 ## Запуск авто-тестов
